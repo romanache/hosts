@@ -25,3 +25,4 @@ while read -r ip host aliases; do
         echo "IP invalid: $ip"
     fi
 done < /etc/hosts
+# Modificat de Roman
